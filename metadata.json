@@ -1,0 +1,7 @@
+{
+  "name": "Cassio Eletro Show Outlet",
+  "description": "Uma loja online premium de eletrodomésticos outlet com promoções relâmpago e gestão administrativa completa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
